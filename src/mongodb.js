@@ -26,3 +26,6 @@ const collection = new mongoose.model('collection1',logInSchema)
 
 module.exports=collection
  
+
+
+
